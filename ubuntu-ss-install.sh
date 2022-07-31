@@ -219,7 +219,7 @@ install_all(){
     set_domain
     pre_install
     install_libsodium
-    install_mbedtls
+
     get_latest_ver
     install_ss
     install_v2
